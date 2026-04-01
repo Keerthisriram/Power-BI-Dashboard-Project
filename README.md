@@ -16,9 +16,9 @@ The project objective of the Data Professional Survey was to analyze and visuali
 - 6.Average salary by gender.
 
 ## Process:
--1.Upload the data into Power BI, Cleaning & Transforming data using power Query editor.
--2.After Cleaning the data analysethe data and build the visuals using power BI.
--3.Designing interactive dashboard using different chart visuals.
+- 1.Upload the data into Power BI, Cleaning & Transforming data using power Query editor.
+- 2.After Cleaning the data analysethe data and build the visuals using power BI.
+- 3.Designing interactive dashboard using different chart visuals.
 
 ## Dashboard
 <img width="2231" height="1263" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/db602d7e-505e-40d5-b09c-4b603f02cdc7" />
