@@ -4,15 +4,16 @@ The project objective of the Data Professional Survey was to analyze and visuali
 
 ## Dataset Used
  <a href= "https://github.com/Keerthisriram/Power-BI-Dashboard-Project/blob/main/Power%20BI%20-%20Final%20Raw%20file.xlsx">Dataset </a>
+ 
  <a href="https://github.com/Keerthisriram/Power-BI-Dashboard-Project/blob/main/Power%20BI%20Dashboard.png">Power BI Dashboard</a>
 
 ## Key Performance Indicators(KPI)
-1.Average Salary – Displays the avg salary across all respondents, with filters for role, experience, and location.
-2.Count of survey taken participants
-3.Job Satisfaction Score – Average satisfaction rating (e.g., on a 1–10 scale) to measure overall career happiness. work life balance, salary.
-4.Top Skills in Demand – Percentage of respondents listing specific technical skills (e.g., SQL, Python, Power BI).
-5.Count of Survey taken by Industry based on the role.
-6.Average salary by gender.
+- 1.Average Salary – Displays the avg salary across all respondents, with filters for role, experience, and location.
+- 2.Count of survey taken participants
+- 3.Job Satisfaction Score – Average satisfaction rating (e.g., on a 1–10 scale) to measure overall career happiness. work life balance, salary.
+- 4.Top Skills in Demand – Percentage of respondents listing specific technical skills (e.g., SQL, Python, Power BI).
+- 5.Count of Survey taken by Industry based on the role.
+- 6.Average salary by gender.
 
 ## Process:
 -1.Upload the data into Power BI, Cleaning & Transforming data using power Query editor.
